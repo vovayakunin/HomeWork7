@@ -68,5 +68,10 @@ public class Main {
         System.out.println("Задача 10");
 
 
+        int n = 2;
+        for (int a = 1; a <= 10; a ++) {
+            System.out.println(n+ "*" + a + "=" + n*a);
+        }
+
         }
     }
