@@ -37,14 +37,17 @@ public class Main {
         System.out.println("Задача 6");
 
         for (int f = 7; f <= 98; f = f + 7) {
-            System.out.println(f);
+            System.out.print(f + " " );
         }
+        System.out.println();
+
 
         System.out.println("Задача 7");
 
         for (int g = 1; g <= 512; g = g*2) {
-            System.out.println(g);
+            System.out.print(g + " ");
         }
+        System.out.println();
 
         System.out.println("Задача 8");
 
